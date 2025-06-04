@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎访问我的主页！)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
 
 <!--
 **TimeWtr/TimeWtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
