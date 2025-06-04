@@ -15,9 +15,15 @@
 <div align="center">
 
 ### 🏆 Achievements
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TimeWtr&theme=flat&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements">
 </p>
+</div>
+
+---
+
 
 ### 🚀 Technical Expertise
 
@@ -94,6 +100,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TimeWtr&repo=Chanjet&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=e1e4e8" />
       </a>
       <p>High-performance double-buffered channel based on Go, Buffer Pool and zero-copy implementation</p>
+      <img src="https://img.shields.io/github/stars/TimeWtr/Chanjet?style=flat&label=Stars&logo=github&color=blue" />
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8" />
         <img src="https://img.shields.io/badge/High--Performance-important" />
@@ -109,6 +116,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TimeWtr&repo=vortexrotate&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=e1e4e8" />
       </a>
       <p>A general file writing and rotation library based on Go</p>
+      <img src="https://img.shields.io/github/stars/TimeWtr/vortexrotate?style=flat&label=Stars&logo=github&color=blue" />
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8" />
         <img src="https://img.shields.io/badge/File%20Management-success" />
@@ -124,7 +132,7 @@
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0;">
   <div style="background: #e6f7ff; border-radius: 8px; padding: 12px 20px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" width="32" height="24" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" width="28" height="24" style="margin-right: 10px;"/>
     <span>Rust</span>
   </div>
 
