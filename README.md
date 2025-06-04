@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎访问我的主页！)
+
 <!--
 **TimeWtr/TimeWtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎访问我的主页！)
+
 [![Chanjet](https://github-readme-stats.vercel.app/api/pin?username=TimeWtr&repo=Chanjet)](https://github.com/TimeWtr/Chanjet)
