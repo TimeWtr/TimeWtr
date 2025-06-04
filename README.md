@@ -14,6 +14,11 @@
 
 <div align="center">
 
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TimeWtr&theme=flat&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements">
+</p>
+
 ### 🚀 Technical Expertise
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
