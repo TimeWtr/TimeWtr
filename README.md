@@ -24,9 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Chanjet](https://github-readme-stats.vercel.app/api/pin?username=TimeWtr&repo=Chanjet)](https://github.com/TimeWtr/Chanjet) 
-
-[![vortexrotate](https://github-readme-stats.vercel.app/api/pin?username=TimeWtr&repo=vortexrotate)](https://github.com/TimeWtr/vortexrotate)
-
 
 
