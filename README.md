@@ -128,6 +128,13 @@
 
 ---
 
+### 📆 Coding Activity
+
+![TimeWtr's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimeWtr&theme=github-light&hide_border=true)
+
+
+---
+
 ### 📚 Currently Learning
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0;">
