@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+[![Chanjet](https://github-readme-stats.vercel.app/api/pin?username=TimeWtr&repo=Chanjet)](https://github.com/TimeWtr/Chanjet)
 -->
