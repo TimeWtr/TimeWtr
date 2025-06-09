@@ -105,6 +105,7 @@
         <img src="https://img.shields.io/badge/Go-00ADD8" />
         <img src="https://img.shields.io/badge/High--Performance-important" />
         <img src="https://img.shields.io/badge/Zero--Copy-blueviolet" />
+        <img src="https://img.shields.io/badge/Library-9cf" />
       </p>
     </div>
   </div>
@@ -120,6 +121,22 @@
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8" />
         <img src="https://img.shields.io/badge/File%20Management-success" />
+        <img src="https://img.shields.io/badge/Library-9cf" />
+      </p>
+    </div>
+  </div>
+
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 400px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 align="center">gopoolkit</h3>
+    <div align="center">
+      <a href="https://github.com/TimeWtr/gopoolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TimeWtr&repo=gopoolkit&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=e1e4e8" />
+      </a>
+      <p>Secondary encapsulation based on Go's sync.Pool to provide strict control of the number of objects and indicator monitoring</p>
+      <img src="https://img.shields.io/github/stars/TimeWtr/gopoolkit?style=flat&label=Stars&logo=github&color=blue" />
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8" />
+        <img src="https://img.shields.io/badge/High--Performance-important" />
         <img src="https://img.shields.io/badge/Library-9cf" />
       </p>
     </div>
